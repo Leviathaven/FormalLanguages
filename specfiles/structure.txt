@@ -1,0 +1,12 @@
+if a > 3 or b > 5 then
+    a = b - a \ 3;
+    b = a * 3;
+    output a;
+    output b
+elseif a <> b and a > 3 or not b == 5 then
+    b = 12 * 4 + 5;
+    output b
+else 
+    s = a \ b - 5 + c * 4;
+    output s
+end

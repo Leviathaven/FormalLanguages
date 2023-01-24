@@ -1,0 +1,7 @@
+if f > 3 or d1 > 51 then
+    a = b - 3
+elseif f <> d and x > 3 or q == 5 then
+    a = b + 5
+else 
+    a = 10
+end

@@ -1,0 +1,27 @@
+com/estate/EState.java
+ com.estate.EState
+com/main/Main.java
+ com.main.Main
+ com.main.Main$1
+com/lexema/Lexema.java
+ com.lexema.Lexema
+com/elextype/ELexType.java
+ com.elextype.ELexType
+com/readfiles/ReadFiles.java
+ com.readfiles.ReadFiles
+com/expression/Expression.java
+ com.expression.Expression
+com/entrytype/EntryType.java
+ com.entries.EntryType
+com/ecmd/ECmd.java
+ com.ecmd.ECmd
+com/writefiles/WriteFiles.java
+ com.writefiles.WriteFiles
+com/polizentry/PolizEntry.java
+ com.polizentry.PolizEntry
+com/poliz/Poliz.java
+ com.poliz.Poliz
+com/tree_handling/TreeHandler.java
+ com.tree_handling.TreeHandler
+com/interpretator/Interpretator.java
+ com.interpretator.Interpretator

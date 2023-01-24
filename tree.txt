@@ -1,0 +1,1 @@
+lexema='>', lexType=rel, index=14, position=16 Ожидается идентификатор или константа 16
